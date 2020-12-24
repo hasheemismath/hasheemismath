@@ -17,8 +17,6 @@ Skills: VUE JS / REACT / NODE / JS / TS / HTML / CSS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hasheemismath&show_icons=true&count_private=true&show_icons=true&theme=dracula)  
 
-![GitHub metrics](https://metrics.lecoq.io/hasheemismath)  
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=hasheemismath)  
 
 ![Profile views](https://gpvc.arturio.dev/hasheemismath)  
