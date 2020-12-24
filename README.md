@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Hasheem Ismath
-#### Design and Development 
+
 A Full Stack Developer who specializes in JavaScript Technologies across the whole stack (Node js, Express, React, Redux, Vue) Experienced in Building Complete web application with Backend API Systems
 
 Skills: VUE JS / REACT / NODE / JS / TS / HTML / CSS
