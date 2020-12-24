@@ -7,4 +7,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasheemismath&layout=compact)](https://github.com/hasheemismath/github-readme-stats)
 
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hasheemismath&layout=compact)](https://github.com/hasheemismath/github-readme-stats)
+
+
+
 
