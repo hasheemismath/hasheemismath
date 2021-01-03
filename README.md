@@ -1,5 +1,5 @@
 
-![I am GitHub Readme Generator's creator](https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png)
+![I am GitHub Readme Generator's creator](https://raw.githubusercontent.com/hasheemismath/hasheemismath.github.io/master/src/assets/img/profile/profileImg.png)
 
 # Hasheem Ismath
 
