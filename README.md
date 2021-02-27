@@ -3,7 +3,7 @@
 
 # Hasheem Ismath
 
-A Full Stack Developer who specializes in JavaScript Technologies across the whole stack (Node js, Express, React, Redux, Vue) Experienced in Building Complete web application with Backend API Systems.
+A Full Stack Developer who specializes in JavaScript Technologies across the whole stack (Node js, Express, React, Redux, Vue). Experienced in Building Complete web application with Backend API Systems.
 
 
 
